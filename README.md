@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starboy.pavan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](# 💫 About Me:
-💻 I’m currently working on<br>Building Flutter apps like a Movie App and Firebase-based projects<br>🤝 I’m looking to collaborate on<br>Flutter & full-stack app development projects<br>💛 I’m looking for help with<br>Advanced state management and clean architecture in Flutter<br>🌱 I’m currently learning<br>To build Ai models and modern app development practices<br>💬 Ask me about<br>Flutter, UI design, and beginner-to-intermediate app development<br>⚡ Fun fact<br>I love turning ideas into real apps and continuously improving my skills 🚀
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/starboy.pavan01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
 
 
 ## 🌐 Socials:
